@@ -1,6 +1,6 @@
 # Data Format Converter
 
-**Live demo:** https://babug01.github.io/data-format-converter/
+**Live demo:** https://data-format-converter-navy.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/data-format-converter/)
 
 Paste JSON, YAML, or TOML and convert it to either of the other two formats. The input format is
 auto-detected (JSON first, then YAML, then TOML) or can be forced with a selector, and parse errors
